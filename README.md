@@ -9,8 +9,8 @@
 | 1 | JS Drum Kit|  A drum kit, made functional with JS  |Javascript  | Done
 | 2 |  Minimal Clock | As minimal as can be | Javascript, CSS | Done
 | 3 |  Scoped CSS Variables| It is what it is  | Javascript, CSS | Done
-| 4 |  |  |  |
-| 5 |  |  |  |
+| 4 | Array Cardio | Basic fun with arrays  | Javascript  | Done
+| 5 | Data analysis | Basic data analysis examples| Python  | Done
 | 6 |  |  |  |
 | 7 |  |  |  |
 | 8 |  |  |  |
