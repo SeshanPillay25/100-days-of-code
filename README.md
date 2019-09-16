@@ -11,7 +11,7 @@
 | 3 |  Scoped CSS Variables| It is what it is  | Javascript, CSS | Done
 | 4 | Array Cardio | Basic fun with arrays  | Javascript  | Done
 | 5 | Data analysis | Basic data analysis examples| Python  | Done
-| 6 |  |  |  |
+| 6 | IP Locator  | IP Geolocation tool | Perl  | Done
 | 7 |  |  |  |
 | 8 |  |  |  |
 | 9 |  |  |  |

@@ -807,6 +807,13 @@ input:-webkit-autofill {
 #python_filter {
   background-color: #4b8bbe;
 }
+#perl_filter{
+  background-color: #8a2be2;
+}
+
+.portfolio_images{
+  max-height: 205px;
+}
 /* Portfolio Hover  */
 
 .single_item figure {
