@@ -12,7 +12,7 @@
 | 4 | Array Cardio | Basic fun with arrays  | Javascript  | Done
 | 5 | Data analysis | Basic data analysis examples| Python  | Done
 | 6 | IP Locator  | IP Geolocation tool | Perl  | Done
-| 7 |  |  |  |
+| 7 | Javascript Algorithms  | Some cool algorithms with Javascript  | Javascript  | Ongoing
 | 8 |  |  |  |
 | 9 |  |  |  |
 | 10 |  |  |  |
