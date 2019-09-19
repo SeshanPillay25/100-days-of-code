@@ -13,8 +13,8 @@
 | 5 | Data analysis | Basic data analysis examples| Python  | Done
 | 6 | IP Locator  | IP Geolocation tool | Perl  | Done
 | 7 | Javascript Algorithms  | Some cool algorithms with Javascript  | Javascript  | Ongoing
-| 8 |  |  |  |
-| 9 |  |  |  |
+| 8 | C++ Algorithms  | Some cool algorithms with C++ | C++  | Ongoing
+| 9 | Chromium Devtools Theming | Theme variations for devtools   | javascript, css  | Ongoing
 | 10 |  |  |  |
 | 11 |  |  |  |
 | 12 |  |  |  |
