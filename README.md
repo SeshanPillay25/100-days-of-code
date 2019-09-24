@@ -14,12 +14,12 @@
 | 6 | IP Locator  | IP Geolocation tool | Perl  | Done
 | 7 | Javascript Algorithms  | Some cool algorithms with Javascript  | Javascript  | Ongoing
 | 8 | C++ Algorithms  | Some cool algorithms with C++ | C++  | Ongoing
-| 9 | Chromium Devtools Theming | Theme variations for devtools   | javascript, css  | Ongoing
-| 10 |  |  |  |
-| 11 |  |  |  |
-| 12 |  |  |  |
-| 13 |  |  |  |
-| 14 |  |  |  |
+| 9 | Chromium Devtools Theming | Theme variations for devtools   | Javascript, CSS  | Ongoing
+| 10 | Countdown Timer | Time yourself ! | Javascript, CSS  | Done
+| 11 | Video Speed Controller | I was bored okay | Javascript, CSS  | Done
+| 12 |  Pure CSS Animated Gradient Background| Me + Gradients = ❤  | CSS | Done
+| 13 | Reaction Animation CSS | Really having alot of fun with these animations  | CSS  | Done
+| 14 | wrap-with-beer npm package | Wraps strings with beer ofcourse, because why not  |Javascript  | Done
 | 15 |  |  |  |
 | 16 |  |  |  |
 | 17 |  |  |  |
