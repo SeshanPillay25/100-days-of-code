@@ -1,0 +1,16 @@
+{
+  "name": "wrap-with-beer",
+  "version": "1.0.0",
+  "description": "Wraps strings with beer ofcourse, because why not",
+  "main": "app.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Seshan Pillay",
+  "license": "MIT"
+}
