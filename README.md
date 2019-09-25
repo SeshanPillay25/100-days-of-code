@@ -20,7 +20,7 @@
 | 12 |  Pure CSS Animated Gradient Background| Me + Gradients = ❤  | CSS | Done
 | 13 | Reaction Animation CSS | Really having alot of fun with these animations  | CSS  | Done
 | 14 | wrap-with-beer npm package | Wraps strings with beer ofcourse, because why not  |Javascript  | Done
-| 15 |  |  |  |
+| 15 |Twitter Data Mining | Pretty much sums it up  | Python  | Done
 | 16 |  |  |  |
 | 17 |  |  |  |
 | 18 |  |  |  |
