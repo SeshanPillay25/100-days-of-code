@@ -21,7 +21,7 @@
 | 13 | Reaction Animation CSS | Really having alot of fun with these animations  | CSS  | Done
 | 14 | wrap-with-beer npm package | Wraps strings with beer ofcourse, because why not  |Javascript  | Done
 | 15 |Twitter Data Mining | Pretty much sums it up  | Python  | Done
-| 16 |  |  |  |
+| 16 | Twitter Data Sentiment Analysis | Determining whether tweets are posiitive or negative  | Python | Done
 | 17 |  |  |  |
 | 18 |  |  |  |
 | 19 |  |  |  |
