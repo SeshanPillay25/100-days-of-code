@@ -22,9 +22,9 @@
 | 14 | wrap-with-beer npm package | Wraps strings with beer ofcourse, because why not  |Javascript  | Done
 | 15 |Twitter Data Mining | Pretty much sums it up  | Python  | Done
 | 16 | Twitter Data Sentiment Analysis | Determining whether tweets are posiitive or negative  | Python | Done
-| 17 |  |  |  |
-| 18 |  |  |  |
-| 19 |  |  |  |
+| 17 | Whack a mole game | Classic whack a mole game in the browser  | Javascript, CSS  | Done
+| 18 | Basic Blockchain Implementation| Basic implementation of blockchain from following bitcoin whitepaper | Python  | Ongoing
+| 19 | Tweet from Terminal | Post tweets to twitter from your terminal  | Python  | Done
 | 20 |  |  |  |
 | 21 |  |  |  |
 | 22 |  |  |  |
