@@ -4,7 +4,7 @@
 
 ## Tools:
 - PyCharm (you can download the community edition https://www.jetbrains.com/pycharm/)
-- Python libraries: tweepy, textblob
+- Python libraries: tweepy,
 
 ## Getting started:
 
