@@ -25,7 +25,7 @@
 | 17 | Whack a mole game | Classic whack a mole game in the browser  | Javascript, CSS  | Done
 | 18 | Basic Blockchain Implementation| Basic implementation of blockchain from following bitcoin whitepaper | Python  | Ongoing
 | 19 | Tweet from Terminal | Post tweets to twitter from your terminal  | Python  | Done
-| 20 |  |  |  |
+| 20 | Custom Video Player  | Just wanted to try it out | Javascript, CSS  | Done
 | 21 |  |  |  |
 | 22 |  |  |  |
 | 23 |  |  |  |
