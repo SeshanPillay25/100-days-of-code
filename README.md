@@ -26,7 +26,7 @@
 | 18 | Basic Blockchain Implementation| Basic implementation of blockchain from following bitcoin whitepaper | Python  | Ongoing
 | 19 | Tweet from Terminal | Post tweets to twitter from your terminal  | Python  | Done
 | 20 | Custom Video Player  | Just wanted to try it out | Javascript, CSS  | Done
-| 21 |  |  |  |
+| 21 |Python Chatbot  | A basic implementation of  a chatbot for a vending machine in python | Python  | Ongoing
 | 22 |  |  |  |
 | 23 |  |  |  |
 | 24 |  |  |  |
