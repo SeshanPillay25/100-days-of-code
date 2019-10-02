@@ -27,7 +27,7 @@
 | 19 | Tweet from Terminal | Post tweets to twitter from your terminal  | Python  | Done
 | 20 | Custom Video Player  | Just wanted to try it out | Javascript, CSS  | Done
 | 21 |Python Chatbot  | A basic implementation of  a chatbot for a vending machine in python | Python  | Ongoing
-| 22 |  |  |  |
+| 22 | Tweet Tracker |Streaming tweets with Tweepy  | Python |Done
 | 23 |  |  |  |
 | 24 |  |  |  |
 | 25 |  |  |  |
