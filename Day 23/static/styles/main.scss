@@ -1,0 +1,63 @@
+@media screen { * , *:after,*:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box;  box-sizing: border-box;	} }* {margin: auto; padding: auto;}
+html { font-size: 62.5%; height: 100%;  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;} /*base sizee*/
+body { height: 100%;font-size: 1.4rem; } /* =14px all type sizes are relative to the base size*/
+
+:root {
+    --background: #FFFFFF;
+    --border-color: #50C68A;
+    --text-color: #232323;
+    --sidebar-color: #2F3235;
+    --sidebar-text: #939395;
+}
+
+*{ margin: 0; padding: 0;}
+html {
+    background: var(--background);
+    color: var(--text-color);
+}
+#titles {
+    background: var(--sidebar-color);
+    color: var(--sidebar-text);
+    border-right: 1px solid var(--border-color);
+    .highlight{
+        background: #334441;
+        color: #50C68A;
+    }
+    li {
+        margin: 15px 3px;
+    display: inline-block;
+    border-bottom: 1px solid var(--border-color);
+    width: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    }
+    height: 100%;
+    width: 23%;
+    position: fixed;
+    left: 0; top: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#content{
+    white-space:pre-wrap;
+    width:77%;
+    outline: none;
+    height: 100%;
+    position: fixed;
+    right: 0;
+    border: none;
+    padding: 40px 100px;
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+   
+}
+
+#flash {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
