@@ -28,7 +28,7 @@
 | 20 | Custom Video Player  | Just wanted to try it out | Javascript, CSS  | Done
 | 21 |Python Chatbot  | A basic implementation of  a chatbot for a vending machine in python | Python  | Ongoing
 | 22 | Tweet Tracker |Streaming tweets with Tweepy  | Python |Done
-| 23 |  |  |  |
+| 23 |Text Editor Phase 1| Meh, i might just create a seperate repo for the rest of this project  | HTML, Javascript, CSS, Electron  | Ongoing
 | 24 |  |  |  |
 | 25 |  |  |  |
 | 26 |  |  |  |
