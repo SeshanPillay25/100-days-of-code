@@ -1,0 +1,1 @@
+Electron is maintained by a team at GitHub as well as a group of active contributors from the community. Some of the contributors are individuals and some work at larger companies who are developing on Electron. We're happy to add frequent contributors to the project as maintainers. Read more about contributing to Electron.

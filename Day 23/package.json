@@ -1,0 +1,15 @@
+{
+  "name": "intro-to-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electromon main.js  --ignore static"
+  },
+  "author": "Seshan Pillay",
+  "license": "ISC",
+  "dependencies": {
+    "electromon": "^1.0.10",
+    "electron": "^2.0.18"
+  }
+}
