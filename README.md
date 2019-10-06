@@ -29,8 +29,8 @@
 | 21 |Python Chatbot  | A basic implementation of  a chatbot for a vending machine in python | Python  | Ongoing
 | 22 | Tweet Tracker |Streaming tweets with Tweepy  | Python |Done
 | 23 |Text Editor Phase 1| Meh, i might just create a seperate repo for the rest of this project  | HTML, Javascript, CSS, Electron  | Ongoing
-| 24 |  |  |  |
-| 25 |  |  |  |
+| 24 | Stock Price Predictor  | Predicting stock prices using Python | Python  |Done
+| 25 | Hover Overlay CSS | Adding a hover overlay in pure CSS  | CSS  | Done
 | 26 |  |  |  |
 | 27 |  |  |  |
 | 28 |  |  |  |
