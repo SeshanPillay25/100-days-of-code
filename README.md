@@ -31,7 +31,7 @@
 | 23 |Text Editor Phase 1| Meh, i might just create a seperate repo for the rest of this project  | HTML, Javascript, CSS, Electron  | Ongoing
 | 24 | Stock Price Predictor  | Predicting stock prices using Python | Python  |Done
 | 25 | Hover Overlay CSS | Adding a hover overlay in pure CSS  | CSS  | Done
-| 26 |  |  |  |
+| 26 |Console Tricks  | Console yourself  | Javascript  | Done
 | 27 |  |  |  |
 | 28 |  |  |  |
 | 29 |  |  |  |
