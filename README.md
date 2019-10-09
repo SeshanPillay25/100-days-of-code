@@ -33,8 +33,8 @@
 | 25 | Hover Overlay CSS | Adding a hover overlay in pure CSS  | CSS  | Done
 | 26 |Console Tricks  | Console yourself  | Javascript  | Done
 | 27 |Key Sequence Detection  | Keep typing 'sesh' to see the magic  | Javascript  |Done
-| 28 |  |  |  |
-| 29 |  |  |  |
+| 28 | Adding up time | Adding up video times using reduce  |Javascript  |Done
+| 29 | Array Cardio Part 2 | More fun with arrays  |Javascript  | Done
 | 30 |  |  |  |
 | 31 |  |  |  |
 | 32 |  |  |  |
