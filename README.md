@@ -35,7 +35,7 @@
 | 27 |Key Sequence Detection  | Keep typing 'sesh' to see the magic  | Javascript  |Done
 | 28 | Adding up time | Adding up video times using reduce  |Javascript  |Done
 | 29 | Array Cardio Part 2 | More fun with arrays  |Javascript  | Done
-| 30 |  |  |  |
+| 30 | Speechomatic |Speech synthesis that lets you question the meaning of life in a different voice  | Javascript  |Done
 | 31 |  |  |  |
 | 32 |  |  |  |
 | 33 |  |  |  |
