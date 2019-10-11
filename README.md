@@ -36,7 +36,7 @@
 | 28 | Adding up time | Adding up video times using reduce  |Javascript  |Done
 | 29 | Array Cardio Part 2 | More fun with arrays  |Javascript  | Done
 | 30 | Speechomatic |Speech synthesis that lets you question the meaning of life in a different voice  | Javascript  |Done
-| 31 |  |  |  |
+| 31 |Mouse Shadow  | Moving mouse shadow | Javascript  | Done
 | 32 |  |  |  |
 | 33 |  |  |  |
 | 34 |  |  |  |
