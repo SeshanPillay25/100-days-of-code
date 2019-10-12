@@ -37,7 +37,7 @@
 | 29 | Array Cardio Part 2 | More fun with arrays  |Javascript  | Done
 | 30 | Speechomatic |Speech synthesis that lets you question the meaning of life in a different voice  | Javascript  |Done
 | 31 |Mouse Shadow  | Moving mouse shadow | Javascript  | Done
-| 32 |  |  |  |
+| 32 |Events  | Understanding javascript's capture |Javascript  | Done
 | 33 |  |  |  |
 | 34 |  |  |  |
 | 35 |  |  |  |
