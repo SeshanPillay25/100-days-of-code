@@ -38,7 +38,7 @@
 | 30 | Speechomatic |Speech synthesis that lets you question the meaning of life in a different voice  | Javascript  |Done
 | 31 |Mouse Shadow  | Moving mouse shadow | Javascript  | Done
 | 32 |Events  | Understanding javascript's capture |Javascript  | Done
-| 33 |  |  |  |
+| 33 | HTML Canvas |Fun with canvas  |Javascript  |Done
 | 34 |  |  |  |
 | 35 |  |  |  |
 | 36 |  |  |  |
