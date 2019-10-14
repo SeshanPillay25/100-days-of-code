@@ -39,7 +39,7 @@
 | 31 |Mouse Shadow  | Moving mouse shadow | Javascript  | Done
 | 32 |Events  | Understanding javascript's capture |Javascript  | Done
 | 33 | HTML Canvas |Fun with canvas  |Javascript  |Done
-| 34 |  |  |  |
+| 34 | CSS Glow  | Animated glow effect with CSS  | CSS| Done
 | 35 |  |  |  |
 | 36 |  |  |  |
 | 37 |  |  |  |
