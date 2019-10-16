@@ -40,8 +40,8 @@
 | 32 |Events  | Understanding javascript's capture |Javascript  | Done
 | 33 | HTML Canvas |Fun with canvas  |Javascript  |Done
 | 34 | CSS Glow  | Animated glow effect with CSS  | CSS| Done
-| 35 |  |  |  |
-| 36 |  |  |  |
+| 35 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
+| 36 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 37 |  |  |  |
 | 38 |  |  |  |
 | 39 |  |  |  |
