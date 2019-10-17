@@ -42,7 +42,7 @@
 | 34 | CSS Glow  | Animated glow effect with CSS  | CSS| Done
 | 35 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 36 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
-| 37 |  |  |  |
+| 37 |YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 38 |  |  |  |
 | 39 |  |  |  |
 | 40 |  |  |  |
