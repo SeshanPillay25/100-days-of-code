@@ -43,7 +43,7 @@
 | 35 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 36 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 37 |YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
-| 38 |  |  |  |
+| 38 | Twitter stream bot |A bot that uses a stream to filter tweets that contain the words "Python" or "Tweepy"  | Python | Ongoing
 | 39 |  |  |  |
 | 40 |  |  |  |
 | 41 |  |  |  |
