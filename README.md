@@ -44,9 +44,9 @@
 | 36 | YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 37 |YouSync | https://github.com/SeshanPillay25/YouSync | Javascript | Ongoing
 | 38 | Twitter stream bot |A bot that uses a stream to filter tweets that contain the words "Python" or "Tweepy"  | Python | Ongoing
-| 39 |  |  |  |
-| 40 |  |  |  |
-| 41 |  |  |  |
+| 39 | Private Project | Private Project | - | -
+| 40 | Private Project | Private Project | - | -
+| 41 | Private Project | Private Project | - | -
 | 42 |  |  |  |
 | 43 |  |  |  |
 | 44 |  |  |  |
